@@ -1,7 +1,1 @@
-{
-  "functions": {
-    "api/generate-song.js": {
-      "runtime": "nodejs18.x"
-    }
-  }
-}
+{}
